@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.linkedin.com/in/lucas-rijllart/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://lucasrijllart.com"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+
 🇺🇸 I'm a software developer currently looking for a new position in Texas
 
 🏦 I've worked 5 years in the Financial Tech industry
@@ -24,3 +27,4 @@ Here are some ideas to get you started:
 🚀 Familiar technologies
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,java,bash,go,django,flask,redis,postgres,docker,git,github,prometheus,grafana,jenkins,md,vim,ansible,)](https://skills.thijs.gg)
+

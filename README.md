@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 🇺🇸 I'm a software developer currently looking for a new position in Texas
 
 🏦 I've worked 5 years in the Financial Tech industry
-- At [Yobota](https://www.yobota.com) then [Chetwood Financial](https://chetwood.co) we built a bank from the group up in the cloud. It supported 5 different live financial products and 3 financial institutions on our banking platform.
+- At [Yobota](https://www.yobota.com) then [Chetwood Financial](https://chetwood.co) we built a bank from the group up in the cloud. It supported 5 different live financial products in the UK market, and 3 financial institutions on our banking platform. I joined as the 20th employee in 2018, and left a 300-person company in 2023.
 - I was responsible for the third-party integrations and quantitative functions (~11 people). This involved multiple RESTful APIs handling credit checks, loan payments (transfers and card payments, savings account transactions, interest rate calculation and adjustment, and more.
 
 🚀 Familiar technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,java,bash,go,django,flask,redis,postgres,docker,git,github,prometheus,grafana,jenkins,md,vim,ansible,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,bash,go,django,flask,redis,postgres,docker,git,github,prometheus,grafana,jenkins,vim)](https://skills.thijs.gg)
 

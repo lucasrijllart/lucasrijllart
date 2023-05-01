@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🇺🇸 I'm a software developer currently looking for a new position in Texas
 
 🏦 I've worked 5 years in the Financial Tech industry
-- At Yobota we built a bank from the group up in the cloud. It supported 5 different live financial products and 3 financial institutions on our banking platform.
+- At [Yobota](https://www.yobota.com) then [Chetwood Financial](https://chetwood.co) we built a bank from the group up in the cloud. It supported 5 different live financial products and 3 financial institutions on our banking platform.
 - I was responsible for the third-party integrations and quantitative functions (~11 people). This involved multiple RESTful APIs handling credit checks, loan payments (transfers and card payments, savings account transactions, interest rate calculation and adjustment, and more.
 
 🚀 Familiar technologies

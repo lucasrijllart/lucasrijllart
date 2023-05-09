@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 🚀 Familiar technologies
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,java,bash,go,django,flask,redis,postgres,docker,git,github,prometheus,grafana,jenkins,vim)](https://skills.thijs.gg)
-

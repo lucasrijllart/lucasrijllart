@@ -18,14 +18,20 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/lucas-rijllart/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://lucasrijllart.com"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-🇺🇸 I'm a software developer currently working for [HUVRdata](https://www.huvrdata.com/) in Austin, Texas.
-- HUVR offers a purpose-built platform for industrial inspections in the Energy industry. It includes a web and mobile app that work together to create a feature-rich all-inclusive platform for inspectors to report their work, and companies can keep track of all their inspection data in one place.
-- I work across the full stack to design, build, and maintain core features for HUVR’s platform, reporting directly to the CTO.
+🇺🇸 I'm a Senior Software Engineer at [Setpoint](https://www.setpoint.io/) in Austin, Texas.
+- Setpoint is building the AI-powered infrastructure taht is transforming how institutional lenders evaluate and finance loan portfolios across real estate and consumer lending.
+- I design and build full-stack systems for the Diligence product, turning complex loan tapes and thousands of supporting documents into fast, AI-assisted workflows that help reviewers complete days of due diligence in a fraction of the time.
 
-🏦 I've worked 5 years in the Financial Tech industry
-- At [Yobota](https://www.yobota.com) then [Chetwood Financial](https://chetwood.co) we built a bank from the ground up in the cloud. It supported 5 different live financial products in the UK market, and 3 financial institutions on the platform. I joined as the 20th employee in 2018, and left a 300-person company in 2023.
-- I was responsible for the third-party integrations and quantitative functions (~11 people). This involved multiple core parts of the banking platform, including handling credit checks, loan payments, transfers and card payments, savings account transactions, interest rate calculation and adjustment, and more.
+### Previous positions
 
-🚀 Familiar technologies
+#### [HUVRdata](https://www.huvrdata.com/) 2023-2026
+- HUVR offers a purpose-built platform for industrial inspections in the energy industry. Its web and mobile applications enable inspectors to report their work while giving companies a central place to manage their inspection data.
+- I worked across the full stack to design, build, and maintain core features for HUVR’s platform, reporting directly to the CTO.
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,bash,go,django,flask,redis,postgres,docker,git,github,prometheus,grafana,jenkins,vim)](https://skills.thijs.gg)
+#### [Yobota](https://www.yobota.com) then [Chetwood Financial](https://chetwood.co) 2018-2023
+- We built a bank from the ground up in the cloud. The platform supported five live financial products in the UK market and three financial institutions on the platform. I joined as the 20th employee in 2018, and left a 300-person company in 2023.
+- I grew to lead an 11 person team responsible for third-party integrations and quantitative functions. This involved multiple core parts of the banking platform, including credit checks, loan payments, bank transfers, card payments, savings transactions, interest rate calculations, and more.
+
+### 🚀 Familiar technologies
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,bash,go,django,flask,redis,postgres,docker,git,github,aws,gcp)](https://skills.thijs.gg)
